@@ -3,13 +3,25 @@
     - path: /getting-started
 - title: Tutorials
   pages:
-    - path: /demo
+    - title: Deploy bluecompute-ce Cloud Native application on Openshift
+      path: /guides/configuration
+    - title: Configure Tekton Pipelines for bluecompute-ce
+      path: /guides/MDX
+    - title: Configure Kabanero Pipeline for bluecompute-ce
+      path: /guides/shadowing
+    - title: Troubleshoot Tekton Pipelines
+      path: /guides/shadowing
 - title: Blogs
   pages:
     - path: /gallery
 - title: Videos
   pages:
-    - path: /contributions
+    - title: What is a Cloud Native app?
+      path: /guides/configuration
+    - title: What is DevOps?
+      path: /guides/MDX
+    - title: What is continous Improvement? 
+      path: /guides/shadowing
 - title: IBM Garage Solution Engineering
   pages:
     - title: Configuration
