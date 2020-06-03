@@ -4,7 +4,7 @@
 - title: Tutorials
   pages:
     - title: Deploy bluecompute-ce Cloud Native application on Openshift
-      path: /guides/configuration
+      path: /guides/deploy-bluecompute-ce
     - title: Configure Tekton Pipelines for bluecompute-ce
       path: /guides/MDX
     - title: Configure Kabanero Pipeline for bluecompute-ce
