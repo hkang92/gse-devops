@@ -8,7 +8,7 @@
     - title: Configure Tekton Pipelines for bluecompute-ce
       path: /guides/configure-tekton-pipelines
     - title: Configure Kabanero Pipeline for bluecompute-ce
-      path: /guides/configure-kabanero-pipelines
+      path: /guides/configure-kabanero-pipeline
     - title: Troubleshoot Tekton Pipelines
       path: /guides/troubleshoot-tekton-pipelines
 - title: Blogs
