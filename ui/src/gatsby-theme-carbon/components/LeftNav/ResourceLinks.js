@@ -3,16 +3,16 @@ import ResourceLinks from 'gatsby-theme-carbon/src/components/LeftNav/ResourceLi
 
 const links = [
   {
-    title: 'Github',
-    href: 'https://github.com/carbon-design-system/gatsby-theme-carbon',
+    title: 'IBM Garage Solution Engineering',
+    href: 'https://ibm-cloud-architecture.github.io/',
+  },
+  {
+    title: 'Github GSE-DevOps',
+    href: 'https://github.com/ibm-cloud-architecture/gse-devops',
   },
   {
     title: 'Carbon',
     href: 'https://www.carbondesignsystem.com',
-  },
-  {
-    title: 'Configuration guide',
-    href: '/guides/configuration',
   },
 ];
 

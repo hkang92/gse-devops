@@ -9,6 +9,8 @@
       path: /guides/configure-tekton-pipelines
     - title: Configure Kabanero Pipeline for bluecompute-ce
       path: /guides/configure-kabanero-pipeline
+    - title: Extend, Build & Deploy Kabanero Pipelines
+      path: /guides/extend-build-deploy-pipelines
     - title: Troubleshoot Tekton Pipelines
       path: /guides/troubleshoot-tekton-pipelines
 - title: Blogs
@@ -17,25 +19,13 @@
 - title: Videos
   pages:
     - title: What is a Cloud Native app?
-      path: /guides/configuration
+      path: /guides/what-is-a-cloudnative-app
     - title: What is DevOps?
-      path: /guides/MDX
-    - title: What is continous Improvement? 
-      path: /guides/shadowing
-- title: IBM Garage Solution Engineering
-  pages:
-    - title: Configuration
-      path: /guides/configuration
-    - title: Authoring MDX
-      path: /guides/MDX
-    - title: Shadowing
-      path: /guides/shadowing
-    - title: Styling
-      path: /guides/styling
-    - title: Navigation
-      path: /guides/navigation/sidebar
-    - title: npm scripts
-      path: /guides/npm-scripts
+      path: /guides/what-is-devops
+    - title: What is DevSecOps?
+      path: /guides/what-is-devsecops
+    - title: What is CI? 
+      path: /guides/ci
 - title: Components
   pages:
     - title: Accordion
