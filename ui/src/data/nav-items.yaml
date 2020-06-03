@@ -3,10 +3,10 @@
     - path: /getting-started
 - title: Tutorials
   pages:
-    - title: Deploy bluecompute-ce Cloud Native application on Openshift
+    - title: Deploy Bluecompute Cloud Native application on Openshift
       path: /guides/deploy-bluecompute-ce
     - title: Configure Tekton Pipelines for bluecompute-ce
-      path: /guides/MDX
+      path: /guides/configure-tekton-pipelines
     - title: Configure Kabanero Pipeline for bluecompute-ce
       path: /guides/shadowing
     - title: Troubleshoot Tekton Pipelines
