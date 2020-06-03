@@ -11,6 +11,8 @@
       path: /guides/configure-kabanero-pipeline
     - title: Extend, Build & Deploy Kabanero Pipelines
       path: /guides/extend-build-deploy-pipelines
+    - title: Configure OpenShift Pipeline for ACE
+      path: /guides/configure-openshift-pipeline-for-ace
     - title: Troubleshoot Tekton Pipelines
       path: /guides/troubleshoot-tekton-pipelines
 - title: Blogs
